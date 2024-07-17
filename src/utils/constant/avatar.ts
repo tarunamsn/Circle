@@ -1,0 +1,1 @@
+export const DEFAULT_AVA = "https://villagesonmacarthur.com/wp-content/uploads/2020/12/Blank-Avatar.png";
